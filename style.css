@@ -1,0 +1,84 @@
+.princi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(135, 135, 216);
+    border-radius: 17px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(201, 201, 250);
+    border-radius: 17px;
+}
+button{
+    background-color:rgb(201, 201, 250) ;
+    border-radius: 10px;
+    width: 200px;
+}
+body{
+    background-color: rgb(177, 177, 206);
+}
+img{
+    justify-content: space-around;
+    display: flex;
+    width: 400px;
+    border-radius: 17px;
+}
+.danult {
+    display: flex;
+    font-size: 20px;
+    background-color: rgb(135, 135, 216);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    border-radius: 17px;
+     }
+     .foto1{
+        justify-content: space-around;
+        display: flex;
+        width: 350px;
+        border-radius: 30px;
+     }
+     
+     .oi{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 20px;
+        background-color:rgb(135, 135, 216) ;
+        border-radius: 17px;
+
+     }
+     .foto2{
+        justify-content: space-around;
+        display: flex;
+        width: 350px;
+        border-radius: 30px;
+     }
+     .icones{
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 20px;
+        background-color:rgb(135, 135, 216) ;
+     }
+     .foto3{
+        margin-top: 10px;
+        width: 50px;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 17px;
+     }
+     .foto4{
+        margin-top: 10px;
+        width: 50px;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 17px;
+     }
+     .foto5{
+        margin-top: 10px;
+        width: 50px;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 17px;
+     }

@@ -1,0 +1,63 @@
+.princi{
+    background-color:rgb(135, 135, 216);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 17px;
+
+}
+h1{
+    background-color: rgb(201, 201, 250);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 120px;
+    border-radius: 17px;
+   
+}
+button{
+    background-color: rgb(201, 201, 250);
+    width: 200px;
+    border-radius: 17px;
+    align-items: center;
+    justify-content: center;
+   
+   
+}
+body{
+    background-color: rgb(177, 177, 206);
+}
+.campo1{
+    background-color: rgb(135, 135, 216);
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    border-radius: 17px;
+}
+.foto1{
+    display: flex;
+    width:300px;
+    border-radius: 17px;
+    }
+ .foto2{
+ width: 300px;
+display: flex;
+border-radius: 17px;
+        }
+        .campo2{
+            background-color: rgb(135, 135, 216);
+            display: flex;
+            margin-top: 50px;
+            justify-content: space-around;  
+            border-radius: 17px;
+       
+        }
+        .foto3{
+            display: flex;
+        width:400px;
+        border-radius: 17px;
+        }
+        .foto4{
+            display: flex;
+        width:400px;
+        border-radius: 17px;
+        }

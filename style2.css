@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(177, 177, 206);
+}
+h1{
+    background-color: rgb(201, 201, 250);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100px;
+    border-radius: 17px;
+}
+button{
+    background-color: rgb(201, 201, 250);
+    width: 200px;
+    border-radius: 17px;
+    align-items: center;
+
+}
+.prici{
+    background-color:rgb(135, 135, 216);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 17px;
+    flex-direction: column;
+}
+.escrita1{
+    display: flex;
+        font-size: 20px;
+        background-color: rgb(135, 135, 216);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-top: 50px;
+        border-radius: 17px;
+}
+.escrita2{
+    background-color: rgb(135, 135, 216);
+    display: flex;
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 17px;
+     }
+     .foto{
+        width: 400px;
+        border-radius: 17px;
+       
+    }
